@@ -1,0 +1,23 @@
+nav{
+    opacity: 0.8;
+}
+.bg-dark{
+    background: var(--main-color);
+}
+nav .navbar-brand img{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+input{
+    font-weight: bold;
+    transition: 0.5s;
+}
+input:focus{
+    background: #999;
+    color: aliceblue;
+}
+input.nav-search:focus{
+    outline: none;
+    opacity: 0.8;
+}

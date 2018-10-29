@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+    /* --main-color: #ff69b4; */
+    --main-color: #cc5490;
+    --secondary-color: #262626;
+    --tertary-color: #fff;
+}
+@font-face {
+    font-family: 'Allura';
+    src: url('https://fonts.googleapis.com/css?family=Allura');
+}
